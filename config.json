@@ -14,7 +14,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/trojan"
+          "path": "/medvip1"
         }
       }
     }
